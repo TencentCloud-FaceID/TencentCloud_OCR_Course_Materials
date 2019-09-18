@@ -1,0 +1,16 @@
+{
+  "name": "GeneralBasicOCR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejsv3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mime-types": "^2.1.24",
+    "request": "^2.88.0"
+  }
+}
